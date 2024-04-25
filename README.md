@@ -1,1 +1,1 @@
-# dictee
+# competition
